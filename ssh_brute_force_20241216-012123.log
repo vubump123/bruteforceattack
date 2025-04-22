@@ -1,0 +1,50 @@
+2024-12-16 01:21:23,664 - INFO - Trying Username: kali Password: kali
+2024-12-16 01:21:23,666 - INFO - Trying Username: kali Password: minhvo
+2024-12-16 01:21:23,671 - INFO - Trying Username: kali Password: concac
+2024-12-16 01:21:23,672 - INFO - Trying Username: kali Password: 123123123
+2024-12-16 01:21:23,674 - INFO - Trying Username: kali Password: 89898989
+2024-12-16 01:21:23,675 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,676 - INFO - Trying Username: kali Password: @@333222
+2024-12-16 01:21:23,677 - INFO - Trying Username: minhvo Password: kali
+2024-12-16 01:21:23,681 - INFO - Trying Username: minhvo Password: minhvo
+2024-12-16 01:21:23,682 - INFO - Trying Username: minhvo Password: concac
+2024-12-16 01:21:23,682 - INFO - Trying Username: minhvo Password: 123123123
+2024-12-16 01:21:23,688 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,835 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,835 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,835 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,838 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,837 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,839 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,839 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,839 - INFO - Connected (version 2.0, client OpenSSH_9.9p1)
+2024-12-16 01:21:23,995 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:24,267 - INFO - Authentication (password) successful!
+2024-12-16 01:21:24,405 - INFO - [SUCCESS] Username: kali Password: kali
+2024-12-16 01:21:24,406 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:24,537 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:24,926 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:24,931 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,069 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,076 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,077 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,097 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,109 - INFO - Authentication (publickey) failed.
+2024-12-16 01:21:25,169 - INFO - Authentication (password) successful!
+2024-12-16 01:21:25,169 - INFO - [SUCCESS] Username: minhvo Password: minhvo
+2024-12-16 01:21:27,290 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,290 - WARNING - [FAILED] Username: kali Password: minhvo
+2024-12-16 01:21:27,302 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,302 - WARNING - [FAILED] Username: kali Password: 123123123
+2024-12-16 01:21:27,305 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,306 - WARNING - [FAILED] Username: kali Password: 89898989
+2024-12-16 01:21:27,307 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,307 - WARNING - [FAILED] Username: kali Password: @@333222
+2024-12-16 01:21:27,319 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,319 - WARNING - [FAILED] Username: kali Password: concac
+2024-12-16 01:21:27,701 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,701 - WARNING - [FAILED] Username: minhvo Password: kali
+2024-12-16 01:21:27,705 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,705 - WARNING - [FAILED] Username: minhvo Password: 123123123
+2024-12-16 01:21:27,883 - INFO - Authentication (password) failed.
+2024-12-16 01:21:27,883 - WARNING - [FAILED] Username: minhvo Password: concac
